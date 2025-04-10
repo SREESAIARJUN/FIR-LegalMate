@@ -1,6 +1,6 @@
 # FIR-LegalMate
 
-FIR-LegalMate is a tool designed to assist police officers in drafting First Information Reports (FIRs). It streamlines the FIR creation process, ensuring accuracy and efficiency. ([firlegalmate.streamlit.app](https://firlegalmate.streamlit.app/)
+FIR-LegalMate is a tool designed to assist police officers in drafting First Information Reports (FIRs). It streamlines the FIR creation process, ensuring accuracy and efficiency. ([firlegalmate.streamlit.app](https://firlegalmate.streamlit.app/))
 
 **Note:** This tool is designed to assist police officers in drafting FIRs. Always consult with legal experts for final verification.
 
